@@ -18,8 +18,8 @@
         </div>
 
         <nav class="navbar">
+            <a href="datos.html">Datos</a>
             <a href="#">Inicio</a>
-            <a href="#">Datos</a>
         </nav>
 
     </div>
