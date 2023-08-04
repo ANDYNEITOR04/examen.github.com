@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,12 +14,10 @@
     <div class="head">
 
         <div class="logo">
-            <a href="#">EXAMEN FINAL</a>
+            <a href="#">EXAMEN  FINAL</a>
         </div>
 
         <nav class="navbar">
-            <a href="#">Inicio</a>
-            
             <a href="#">Inicio</a>
             <a href="#">Datos</a>
         </nav>
@@ -35,10 +32,6 @@
         </p>
         <img src="">
 
-        <div class="btn-home">
-            <a href="#" class="btn">Saber mas</a>
-            <a href="#" class="btn">Saber mas</a>
-        </div>
     </header>
 
     <section class="content sau">
@@ -55,6 +48,4 @@
 
         </p>
         
-     
-          
-</html>
+        
