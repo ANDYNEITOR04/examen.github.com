@@ -30,8 +30,7 @@
             La carrera me parece muy interesante desde el punto de vista social y laboral, en lo personal me gustan las computadoras y esta carrera 
             genera muchas expectativas en mi vida
         </p>
-        <img src="">
-
+        
     </header>
 
     <section class="content sau">
